@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RT-1904129/Lawyer_ambuj/lawyer-website/static/css/main.e6c13ad2.css",
+    "main.js": "/RT-1904129/Lawyer_ambuj/lawyer-website/static/js/main.5cae1ce2.js",
+    "static/js/453.e946dacf.chunk.js": "/RT-1904129/Lawyer_ambuj/lawyer-website/static/js/453.e946dacf.chunk.js",
+    "index.html": "/RT-1904129/Lawyer_ambuj/lawyer-website/index.html",
+    "main.e6c13ad2.css.map": "/RT-1904129/Lawyer_ambuj/lawyer-website/static/css/main.e6c13ad2.css.map",
+    "main.5cae1ce2.js.map": "/RT-1904129/Lawyer_ambuj/lawyer-website/static/js/main.5cae1ce2.js.map",
+    "453.e946dacf.chunk.js.map": "/RT-1904129/Lawyer_ambuj/lawyer-website/static/js/453.e946dacf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5cae1ce2.js"
+  ]
+}
