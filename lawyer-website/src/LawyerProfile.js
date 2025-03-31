@@ -1,4 +1,5 @@
 import React from "react";
+import lawyerPhoto from "./assets/lawyer-photo.jpg";
 
 const LawyerProfile = () => {
   return (
@@ -9,7 +10,7 @@ const LawyerProfile = () => {
       </div>
       <div className="content">
         <div className="photo">
-          <img src="/ambuj.jpeg" alt="Lawyer" className="profile" />
+          <img src={lawyerPhoto} alt="Lawyer" className="profile" />
           <h2>Adv. Ambuj Mishra</h2>
           <h3>Hon. SUPREM COURT OF INDIA</h3>
           
@@ -33,7 +34,9 @@ const LawyerProfile = () => {
       <p>Library IV Forth Floor, MC Seetal Vaad Chambers Block Bhagvn Das Road
         Hon-Supreme Court Chambers, New Delhi - 11000</p>
       <h2>Consultation Charges</h2>
-      <p>₹5000 per consultation</p>
+      <p>Rs. 5000 /- per Legal Notice Rs. 25000/- Per hearing fees Rs. 11000/- </p>
+      <p>Rs. 11000 /- Legal Audit , Daraughting, Bails & Cross & examinations, Complete Accommodation</p>
+      <p>Convience & GST will paid by Client + 15% Clerical Charges.</p>
       <div className="contact">
         <h3>Contact Information</h3>
         <p>Email: 9907ambuj@gmail.com</p>
