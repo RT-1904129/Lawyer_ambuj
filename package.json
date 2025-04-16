@@ -1,8 +1,8 @@
 {
   "name": "lawyer-website",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "private": true,
-  "homepage": "https://RT-1904129.github.io/Lawyer_ambuj/lawyer-website/",
+  "homepage": "https://RT-1904129.github.io/Lawyer_ambuj",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
