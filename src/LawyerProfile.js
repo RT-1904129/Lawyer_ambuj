@@ -6,7 +6,7 @@ const LawyerProfile = () => {
     <div className="container">
       <div className="header">
         <h1>Supreme Court Lawyer</h1>
-        <p>Experienced Supreme Court lawyer providing legal services in various fields.</p>
+        <p>Experienced Supreme Court Advocate providing expert legal services across diverse practice areas, driven by excellence and committed to becoming one of India's leading and highest-paid advocates</p>
       </div>
       <div className="content">
         <div className="photo">
@@ -34,8 +34,8 @@ const LawyerProfile = () => {
       <p>Library IV Forth Floor, MC Seetal Vaad Chambers Block Bhagvn Das Road
         Hon-Supreme Court Chambers, New Delhi - 11000</p>
       <h2>Consultation Charges</h2>
-      <p>Rs. 5000 /- per Legal Notice Rs. 25000/- Per hearing fees Rs. 11000/- </p>
-      <p>Rs. 11000 /- Legal Audit , Daraughting, Bails & Cross & examinations, Complete Accommodation</p>
+      <p>Professional Fee: ₹25–35 Lakhs per Hearing</p>
+      <p>Complete Legal Solutions for All Matters – Civil, Criminal, Corporate, Constitutional, Arbitration, Legal Notices, Drafting, Bail & More.</p>
       <p>Convience & GST will paid by Client + 15% Clerical Charges.</p>
       <div className="contact">
         <h3>Contact Information</h3>
