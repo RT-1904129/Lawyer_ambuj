@@ -34,7 +34,7 @@ const LawyerProfile = () => {
       <p>Library IV Forth Floor, MC Seetal Vaad Chambers Block Bhagvn Das Road
         Hon-Supreme Court Chambers, New Delhi - 11000</p>
       <h2>Consultation Charges</h2>
-      <p>Professional Fee: ₹25–35 Lakhs per Hearing</p>
+      <p>Professional Fee: ₹25–35 Lakhs per Hearing per Suit</p>
       <p>Complete Legal Solutions for All Matters – Civil, Criminal, Corporate, Constitutional, Arbitration, Legal Notices, Drafting, Bail & More.</p>
       <p>Convience & GST will paid by Client + 15% Clerical Charges.</p>
       <div className="contact">
